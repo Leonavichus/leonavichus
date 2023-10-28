@@ -8,7 +8,7 @@
 
 - :office: I'm a student of DSTU
 - :book: I love learning something new
-- :seedling: I'm currently learning **Go**
+- :seedling: I'm currently learning **Flutter**, **Python**, **Go**, **PHP**
 - :new_moon: [DARK NIGHT](https://github.com/darkmoonight), [Uroboros](https://github.com/snakeuroboros), [Noctis Salamandra](https://github.com/noctisalamandra) community founder
 - :computer: Game and application developer
 - :heart: Linux
