@@ -1,4 +1,4 @@
-## Hi there, I'm Yoshi 👋
+## Hi there 👋
 
 #### I'm an open-source software developer
 
